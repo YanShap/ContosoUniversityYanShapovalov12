@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.csproj.user
+
+# Build artifacts
+bin/
+obj/
+
+# Temporary files
+*.suo
+*.cache
+*.exe
+*.pdb
+*.dll

@@ -1,8 +1,11 @@
-﻿namespace ContosoUniversityYanShapovalov12.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ContosoUniversityYanShapovalov12.Models
 {
     public class Student
     {
-        public int Id { get; set; }
+        [Key]
+        public int ID { get; set; }
         public string FirstMiddleName { get; set; }
         public string LastName { get; set; }
         public ICollection<Enrollment>? Enrollments { get; set;}

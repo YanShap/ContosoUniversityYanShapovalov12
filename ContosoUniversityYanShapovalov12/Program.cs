@@ -10,8 +10,7 @@ internal class Program
         // Add services to the container.
         builder.Services.AddControllersWithViews();
         builder.Services.AddDatabaseDeveloperPageExceptionFilter(); 
-        builder.Services.AddDbContext<SchoolContext>(
-            options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+        builder.Services.AddDbContext<SchoolContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
             );
 
         var app = builder.Build();
