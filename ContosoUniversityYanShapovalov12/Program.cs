@@ -1,5 +1,6 @@
 using ContosoUniversityYanShapovalov12.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
 
 internal class Program
 {

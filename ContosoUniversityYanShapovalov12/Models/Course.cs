@@ -1,4 +1,6 @@
-﻿namespace ContosoUniversityYanShapovalov12.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ContosoUniversityYanShapovalov12.Models
 {
     public class Course
     {
