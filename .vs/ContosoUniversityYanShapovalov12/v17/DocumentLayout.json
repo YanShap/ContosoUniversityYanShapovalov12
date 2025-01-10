@@ -1,198 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\officeassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\officeassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\courseassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\courseassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\instructorindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\instructorindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\assignedcoursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\assignedcoursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\departments\\baseon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\departments\\baseon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\students\\assigngrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\students\\assigngrade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\instructors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\instructors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\instructors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\instructors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\instructors\\clone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\instructors\\clone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\courses\\detailsdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\courses\\detailsdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\courses\\createedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\courses\\createedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\jansh\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|c:\\users\\opilane\\source\\repos\\contosouniversityyanshapovalov12\\contosouniversityyanshapovalov12\\migrations\\20241202164447_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26454E52-14AB-422A-A2BC-B5A988A73690}|ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12.csproj|solutionrelative:contosouniversityyanshapovalov12\\migrations\\20241202164447_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -202,12 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 308,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -215,6 +71,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -229,589 +89,165 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OfficeAssignment.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\OfficeAssignment.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\OfficeAssignment.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\OfficeAssignment.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\OfficeAssignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:23:04.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Student.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:10:58.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\Create.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Courses\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\Create.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Courses\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:03:34.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:30:40.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Create.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Students\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Create.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Students\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:40:59.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Students\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Edit.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Students\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:43:23.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dbinitializer.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Data\\Dbinitializer.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Data\\Dbinitializer.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Data\\Dbinitializer.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Data\\Dbinitializer.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAewFcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:07:35.844Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Students\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Delete.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Students\\Delete.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAewBwAAAAqAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:41:10.544Z"
+              "WhenOpened": "2024-12-02T16:53:35.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowBMAAAA9AAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:45:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241202164447_first.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Migrations\\20241202164447_first.cs",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Migrations\\20241202164447_first.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Migrations\\20241202164447_first.cs",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Migrations\\20241202164447_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:12:11.511Z",
+              "WhenOpened": "2024-12-02T16:44:47.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\appsettings.json",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\appsettings.json",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\appsettings.json",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T16:15:14.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Program.cs",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:10:38.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:10:47.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CourseAssignment.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\CourseAssignment.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\CourseAssignment.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\CourseAssignment.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\CourseAssignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:13:50.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Department.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:14:43.184Z"
+              "WhenOpened": "2024-12-02T16:05:28.096Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Instructor.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\Instructor.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Instructor.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:19:45.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Enrollment.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\Enrollment.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Enrollment.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\Enrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:20:02.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InstructorIndexData.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\InstructorIndexData.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\InstructorIndexData.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\InstructorIndexData.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\InstructorIndexData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:22:06.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Course.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:11:25.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AssignedCourseData.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\AssignedCourseData.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\AssignedCourseData.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\AssignedCourseData.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\AssignedCourseData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:12:33.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Data\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Data\\SchoolContext.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Data\\SchoolContext.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Data\\SchoolContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:08:48.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InstructorsController.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\InstructorsController.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Controllers\\InstructorsController.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\InstructorsController.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Controllers\\InstructorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:31:18.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:12:12.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwIsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:29:41.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Program.cs",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Program.cs",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Program.cs",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:24:57.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\appsettings.json",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\appsettings.json",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\appsettings.json",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T17:24:42.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Index.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:22:25.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Edit.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:22:18.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Details.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Details.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:22:07.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Delete.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:21:52.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Create.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\Create.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Departments\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:21:37.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "BaseOn.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\BaseOn.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Departments\\BaseOn.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Departments\\BaseOn.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Departments\\BaseOn.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:21:21.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Students\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\Index.cshtml",
               "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Students\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABLAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:41:24.482Z"
+              "WhenOpened": "2024-12-02T15:51:25.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AssignGrade.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\AssignGrade.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Students\\AssignGrade.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Students\\AssignGrade.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Students\\AssignGrade.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:44:17.137Z"
+              "DocumentIndex": 11,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:37:38.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:24:53.033Z"
+              "DocumentIndex": 5,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Enrollment.cs",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:24:18.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:24:43.701Z"
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Models\\Student.cs",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:15:34.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:24:37.254Z"
+              "DocumentIndex": 3,
+              "Title": "Dbinitializer.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Data\\Dbinitializer.cs",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Data\\Dbinitializer.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Data\\Dbinitializer.cs",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Data\\Dbinitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:58:20.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Index.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:12:32.236Z"
+              "DocumentIndex": 4,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Data\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:57:40.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Edit.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:14:24.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Delete.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:13:16.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Create.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Create.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:13:01.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Clone.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Clone.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Clone.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Instructors\\Clone.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Instructors\\Clone.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:12:46.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:24:19.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:24:15.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Courses\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\Index.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Courses\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:05:01.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "DetailsDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\DetailsDelete.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Courses\\DetailsDelete.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\DetailsDelete.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Courses\\DetailsDelete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:04:46.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\Details.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Courses\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\Details.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Courses\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:04:29.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Courses\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\Delete.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Courses\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:04:10.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CreateEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\CreateEdit.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\Courses\\CreateEdit.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\Courses\\CreateEdit.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\Courses\\CreateEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T17:03:50.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:47:20.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\jansh\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T16:47:24.642Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversityYanShapovalov12\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityYanShapovalov12\\ContosoUniversityYanShapovalov12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContosoUniversityYanShapovalov12\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:50:49.398Z"
             }
           ]
         },
